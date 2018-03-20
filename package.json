@@ -1,0 +1,14 @@
+{
+  "name": "vue-component-add",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+  	"vca": "index.js"
+  },
+  "scripts": {
+    "test": "vca"
+  },
+  "author": "liu",
+  "license": "ISC"
+}
